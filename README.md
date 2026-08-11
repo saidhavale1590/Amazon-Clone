@@ -2,9 +2,6 @@
 
 A visually precise and clean clone of the **Amazon Homepage UI**, crafted entirely from scratch using **HTML5** and **CSS3**. This project focuses strictly on replicating Amazon's iconic layout, component design, and typography to practice modern front-end layout styling techniques.
 
-## 🚀 Live Demo
-You can view the live deployment of this project here: [View Live Demo](YOUR_LIVE_DEPLOYMENT_LINK_HERE)
-
 ---
 
 ## ✨ Features
@@ -21,7 +18,7 @@ You can view the live deployment of this project here: [View Live Demo](YOUR_LIV
 ## 🛠️ Tech Stack
 
 * **HTML5:** For semantic page structure and building complex modern block element layouts.
-* **CSS3:** For customized grids, flexible flexbox boxes, color gradients, and transitions.
+* **CSS:** For customized grids, flexible flexbox boxes, color gradients, and transitions.
 * **FontAwesome Icons:** For integrating precise design assets like the shopping cart, search magnifying glass, and navigation pin icons.
 
 ---
@@ -60,20 +57,8 @@ You only need a modern web browser installed (e.g., Google Chrome, Microsoft Edg
 3. **Open the project:**
    Simply double-click the `index.html` file to run it in your browser, or open the folder directly in your code editor using a tool like the "Live Server" extension.
 
----
 
-## 📸 Screenshots
 
-### Homepage Desktop View
-![Desktop Preview](YOUR_SCREENSHOT_IMAGE_LINK_HERE)
 
----
 
-## 🤝 Contributing
 
-Contributions, issues, and feature requests are welcome! 
-Feel free to check the [issues page](YOUR_GITHUB_REPOSITORY_ISSUES_LINK) if you want to contribute extensions like making it fully responsive or adding JavaScript interactivity.
-
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
